@@ -168,6 +168,7 @@ function App() {
             <DialogContent className="task-dialog" data-testid="add-task-dialog">
               <DialogHeader>
                 <DialogTitle>Create New Task</DialogTitle>
+                <DialogDescription>Fill in the details to create a new task</DialogDescription>
               </DialogHeader>
               <div className="dialog-form">
                 <div>
