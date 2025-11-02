@@ -107,12 +107,13 @@ body {
 
 .search-input {
   width: 100%;
-  padding: 0.875rem 1rem 0.875rem 3rem;
+  padding: 0.75rem 1rem 0.75rem 2.75rem;
   border: 2px solid #e2e8f0;
   border-radius: 12px;
   font-size: 0.9375rem;
   background: white;
   transition: border-color 0.2s, box-shadow 0.2s;
+  line-height: 1.5;
 }
 
 .search-input:focus {
