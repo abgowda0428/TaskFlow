@@ -371,6 +371,7 @@ function App() {
         <DialogContent className="task-dialog" data-testid="edit-task-dialog">
           <DialogHeader>
             <DialogTitle>Edit Task</DialogTitle>
+            <DialogDescription>Update the task details</DialogDescription>
           </DialogHeader>
           <div className="dialog-form">
             <div>
